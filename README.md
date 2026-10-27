@@ -51,3 +51,14 @@ Use the grep command as follows to verify that an IP address 1.2.3.4 is blocked 
 ```
 iptables -L INPUT -v -n | grep "1.2.3.4"
 ```
+
+
+---
+
+### Support / Unterstützung
+
+If my open-source contributions are useful to you, you can support my work voluntarily. Feedback, bug reports and contributions are just as welcome.
+
+Wenn dir meine Open-Source-Beiträge helfen, freue ich mich über freiwillige Unterstützung. Auch Feedback, Fehlermeldungen und Pull Requests helfen weiter.
+
+[Buy Me a Coffee](https://buymeacoffee.com/sly5ir9ov) · [PayPal](https://paypal.me/LarsM1980)
